@@ -1,0 +1,34 @@
+{
+    "NU22I-9809": {
+        "name": "Mussab Bin Umair",
+        "password": "$2b$12$xfr/Cy1QKCnUkpodP2D1c.nFnx2YnTDh/Tehl.8jGH76dlaO5RKvO",
+        "kyc_q": "When was FinTech introduced in Fast NUCES?",
+        "kyc_a": "$2b$12$yP/Ee2Uoh/m9aSy.YsqTO.Esp9eAyzjzVp298AoYZxdrhx0fWYwkq",
+        "failed_attempts": 5,
+        "locked": true
+    },
+    "NU22I-7460": {
+        "name": "Raed Alvi",
+        "password": "$2b$12$6L0JidPIEAiidliFuwYUhuGgQWpyAXDnJryYqJYVUusu.wMiRXPBe",
+        "kyc_q": "What is the flagship event of FAST ISB?",
+        "kyc_a": "$2b$12$m7fv5SZcyt5H7.Ceq16hYuCvRzveoqkkqSkwBCGz/XQdnFy1UOqTi",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "NU22I-2254": {
+        "name": "Yahya Tariq",
+        "password": "$2b$12$SQiPcjYvSdQg0EQgNSPAJO2/xNeX9mdUCILwoKOchGnl/brhi3Wuq",
+        "kyc_q": "What is the name of the library?",
+        "kyc_a": "$2b$12$ZFbUb9RZYmgvn/nV.eerw.tv9sx4N6vjVsKw0bWoSKtnGgjNPdngy",
+        "failed_attempts": 0,
+        "locked": false
+    },
+    "NU22I-0090": {
+        "name": "MSB",
+        "password": "$2b$12$bRlDf/FKUItcoEiUk1IW3uwLiIN4p5ZdFCWqoZeKmAkRE4keDUFSC",
+        "kyc_q": "What is the name of the bus service?",
+        "kyc_a": "$2b$12$sQLDNLdpgZOnUTCkWsXsbuIILoL1ui3ATOBTvu2O8dRo8GXo.z8sS",
+        "failed_attempts": 0,
+        "locked": false
+    }
+}

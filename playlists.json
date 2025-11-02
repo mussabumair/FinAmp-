@@ -1,0 +1,75 @@
+{
+    "NU22I-9809": {
+        "Gym": {
+            "items": [
+                {
+                    "name": "Gym Fee",
+                    "amount": 2000.0
+                }
+            ],
+            "budget": 0.0
+        },
+        "Food": {
+            "items": [
+                {
+                    "name": "Ginyaki",
+                    "amount": 3000.0
+                }
+            ],
+            "budget": 6000.0
+        }
+    },
+    "wallets": {
+        "NU22I-7460": 25000.0,
+        "NU22I-9809": 0.0,
+        "NU22I-0090": 20000.0
+    },
+    "NU22I-7460": {
+        "Food": {
+            "items": [
+                {
+                    "name": "Cinnamon Rolls",
+                    "amount": 500.0
+                }
+            ],
+            "budget": 4000.0
+        }
+    },
+    "NU22I-0090": {
+        "Gym": {
+            "items": [
+                {
+                    "name": "Protein Powder",
+                    "amount": 5000.0
+                }
+            ],
+            "budget": 10000.0
+        },
+        "Football": {
+            "items": [
+                {
+                    "name": "Football Shoes",
+                    "amount": 1500.0
+                },
+                {
+                    "name": "Football ",
+                    "amount": 1000.0
+                }
+            ],
+            "budget": 3000.0
+        },
+        "Uni": {
+            "items": [
+                {
+                    "name": "ID Card",
+                    "amount": 250.0
+                }
+            ],
+            "budget": 0.0
+        },
+        "Food": {
+            "items": [],
+            "budget": 0
+        }
+    }
+}
