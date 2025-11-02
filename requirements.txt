@@ -4,3 +4,8 @@ cryptography
 python-dotenv
 pandas
 plotly
+matplotlib
+json
+io
+canvas
+
